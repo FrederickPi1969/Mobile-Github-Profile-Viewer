@@ -1,0 +1,12 @@
+{
+  "name": "ProfileDisplayer",
+  "displayName": "ProfileDisplayer",
+  "expo": {
+    "name": "ProfileDisplayer",
+    "slug": "ProfileDisplayer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

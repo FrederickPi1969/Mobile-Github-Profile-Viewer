@@ -1,0 +1,991 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly - good condition 1`] = `
+<View>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "minHeight": "100vh",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/home_background.jpg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": undefined,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#2902eb",
+            "fontSize": 18,
+          }
+        }
+      >
+        &lt; Back
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "marginLeft": "3%",
+          "marginTop": "5%",
+        }
+      }
+    >
+      FrederickPi1969's Repos
+    </Text>
+    <View
+      style={
+        Object {
+          "marginTop": "5%",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Course-Projects
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            iRM_Autonomy_2020
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Awesome Repo for iRM 2020 CV Development
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              illini-robomaster
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Taxnonomy
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            CS512-CGG
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            CGG Paper
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Subteam-replacement-svn
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              BillyZhaohengLi
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            CS241
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            frederickpi.github.io
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            subteam_replacement_paper
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Code repository for the arXiv preprint at arxiv.org/abs/2101.11070
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              BillyZhaohengLi
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "backgroundColor": "#d5ccff",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2%",
+            "width": "85%",
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "#2a05e3",
+                "fontSize": 16,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Bili-Impression
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "#626166",
+                "fontSize": 14,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Not filled
+          </Text>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={
+              Object {
+                "color": "#ff8800",
+                "fontSize": 12,
+                "fontWeight": "bold",
+                "opacity": 1,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 12,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              FrederickPi1969
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders correctly - mocked network error 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - mocked other errors 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - user has 0 repos 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;

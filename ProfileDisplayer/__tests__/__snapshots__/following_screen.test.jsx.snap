@@ -1,0 +1,793 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly - good condition 1`] = `
+<View>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "minHeight": "100vh",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/home_background.jpg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": undefined,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#2902eb",
+            "fontSize": 18,
+          }
+        }
+      >
+        &lt; Back
+      </Text>
+    </View>
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "marginLeft": "3%",
+          "marginTop": "5%",
+        }
+      }
+    >
+      BillyZhaohengLi's Followings
+    </Text>
+    <View
+      style={
+        Object {
+          "marginTop": "5%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="zhuyifei1999"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/2096920?v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              zhuyifei1999
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="Ichiro-Tai"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/18900935?v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Ichiro-Tai
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              Ichiro Tai
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="adrianisuru"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/29132588?u=d93aed16f6f9b178da1a4e89ab59a330bb3c3ab4&v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              adrianisuru
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              Adrian Herath
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="madun1999"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/22937901?u=f0dc55a37ea300219cd5f3b3662b3061fbe7dc1d&v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              madun1999
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              Dun Ma
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="rickypeng99"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/16938249?u=5d618c0564c9ed2ec79b54db5ac019680b37682d&v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              rickypeng99
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              Ricky Peng
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#e6e4e3",
+            "borderColor": "black",
+            "borderRadius": 8,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+            "marginTop": "2.5vh",
+            "opacity": 1,
+            "paddingBottom": "0.5vh",
+            "width": "85%",
+          }
+        }
+        testID="gchallen"
+      >
+        <View
+          style={
+            Object {
+              "flexDirection": "row",
+              "marginLeft": "1.5vw",
+              "marginTop": "0.5vh",
+            }
+          }
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://avatars.githubusercontent.com/u/445443?u=44b420ca7fe0da7bf13482d7080212e5d92ff9ec&v=4",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 500,
+                "height": "9vh",
+                "width": "9vh",
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "marginLeft": "6.5vw",
+                "marginTop": "1vh",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#2a05e3",
+                  "fontFamily": "'Comic Sans MS'",
+                  "fontSize": 20,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              gchallen
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "#ff8800",
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                }
+              }
+            >
+              Geoffrey Challen
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders correctly - mocked network error 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - mocked other errors 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - user has 0 followings 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;

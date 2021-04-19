@@ -1,0 +1,784 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly - good condition 1`] = `
+<View>
+  <View>
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Object {
+          "minWidth": "100vw",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/top_background.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#2902eb",
+              "fontSize": 18,
+            }
+          }
+        >
+          &lt; Back
+        </Text>
+      </View>
+      <View>
+        <Image
+          source={
+            Object {
+              "uri": "https://avatars.githubusercontent.com/u/54872828?u=cafd2de49c9c0fe1ad20570360b89d70be172913&v=4",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 500,
+              "height": 120,
+              "marginLeft": "auto",
+              "marginRight": "auto",
+              "marginTop": "10%",
+              "width": 120,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "fontSize": 22,
+              "fontWeight": "bold",
+              "textAlign": "center",
+            }
+          }
+        >
+          FrederickPi1969
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "flexDirection": "row",
+            "marginTop": "10%",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "borderColor": "#e8ebe4",
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "fontSize": 18,
+              "fontWeight": "300",
+              "height": "20vw",
+              "marginBottom": "auto",
+              "marginTop": "auto",
+              "opacity": 1,
+              "textAlign": "center",
+              "width": "33.3vw",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": "auto",
+                "marginTop": "auto",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Followers
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              0
+            </Text>
+          </View>
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "borderColor": "#e8ebe4",
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "fontSize": 18,
+              "fontWeight": "300",
+              "height": "20vw",
+              "marginBottom": "auto",
+              "marginTop": "auto",
+              "opacity": 1,
+              "textAlign": "center",
+              "width": "33.3vw",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": "auto",
+                "marginTop": "auto",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Following
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              0
+            </Text>
+          </View>
+        </View>
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "borderColor": "#e8ebe4",
+              "borderStyle": "solid",
+              "borderWidth": 1,
+              "fontSize": 18,
+              "fontWeight": "300",
+              "height": "20vw",
+              "marginBottom": "auto",
+              "marginTop": "auto",
+              "opacity": 1,
+              "textAlign": "center",
+              "width": "33.3vw",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "marginBottom": "auto",
+                "marginTop": "auto",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Repo
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              9
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View>
+    <View
+      accessibilityIgnoresInvertColors={true}
+      style={
+        Object {
+          "minHeight": "75vh",
+          "minWidth": "100vw",
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/bottom_background.jpg",
+          }
+        }
+        style={
+          Array [
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            },
+            Object {
+              "height": undefined,
+              "width": undefined,
+            },
+            undefined,
+          ]
+        }
+      />
+      <View
+        style={
+          Object {
+            "marginLeft": "3vw",
+            "marginTop": "4vh",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 18,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          User Info
+        </Text>
+        <View
+          style={
+            Object {
+              "marginTop": "1.5vh",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Name:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Frederick Pi
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Email:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Not filled
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Website:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Not filled
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Bio:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Artificial but true intelligence.
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "marginLeft": "3vw",
+            "marginTop": "3vh",
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "fontSize": 18,
+              "fontWeight": "bold",
+            }
+          }
+        >
+          About
+           
+        </Text>
+        <View
+          style={
+            Object {
+              "marginTop": "1.5vh",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Git:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              https://github.com/FrederickPi1969
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Creation Date:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              2019-09-04
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "500",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              Last Update:  
+            </Text>
+            <Text
+              style={
+                Object {
+                  "fontSize": 16,
+                  "fontWeight": "400",
+                  "marginTop": "1vh",
+                }
+              }
+            >
+              2021-03-20
+            </Text>
+            <Text>
+              
+
+
+
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`renders correctly - mocked network error 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - mocked other errors 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;
+
+exports[`renders correctly - non existing user 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;

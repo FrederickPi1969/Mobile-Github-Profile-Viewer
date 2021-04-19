@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ffb8ce",
+      "height": "100vh",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#2902eb",
+          "fontSize": 18,
+        }
+      }
+    >
+      &lt; Back
+    </Text>
+  </View>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/empty.png",
+      }
+    }
+    style={
+      Object {
+        "height": "60vw",
+        "marginLeft": "auto",
+        "marginRight": "auto",
+        "marginTop": "25%",
+        "width": "60vw",
+      }
+    }
+  />
+  <Text
+    style={
+      Object {
+        "fontFamily": "Comic Sans MS",
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "2vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Empty!
+  </Text>
+</View>
+`;

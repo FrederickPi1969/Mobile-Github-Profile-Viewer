@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+        "fontWeight": "bold",
+        "marginTop": "35vh",
+        "textAlign": "center",
+      }
+    }
+  >
+    Loading...
+  </Text>
+</View>
+`;

@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    Object {
+      "minHeight": "100vh",
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "testUri": "../../../assets/home_background.jpg",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": undefined,
+          "width": undefined,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View>
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/git_logo.jpg",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 500,
+          "height": "33vw",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "marginTop": "25%",
+          "width": "33vw",
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "marginTop": "15%",
+          "textAlign": "center",
+        }
+      }
+    >
+      Which GitHub User Are you Looking for?
+    </Text>
+    <TextInput
+      allowFontScaling={true}
+      defaultValue="BillyZhaohengLi"
+      onChangeText={[Function]}
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "borderColor": "black",
+          "borderRadius": 5,
+          "borderStyle": "solid",
+          "borderWidth": 2,
+          "color": "#ebebeb",
+          "fontSize": 18,
+          "height": "5.5vh",
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "marginTop": "8%",
+          "textAlign": "center",
+          "width": "80%",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4a4a4a",
+          "borderColor": "black",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": 0.5,
+          "color": "green",
+          "height": "5.5vh",
+          "marginLeft": "37.5%",
+          "marginTop": "10%",
+          "opacity": 1,
+          "textAlign": "center",
+          "width": "25%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ebebeb",
+            "fontWeight": "bold",
+            "marginBottom": "auto",
+            "marginTop": "auto",
+            "textAlign": "center",
+          }
+        }
+      >
+        Search
+      </Text>
+    </View>
+  </View>
+</View>
+`;
